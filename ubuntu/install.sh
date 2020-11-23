@@ -17,3 +17,6 @@ cd fonts
 ./install.sh
 cd ..
 rm -rf fonts
+
+# omf
+curl -L https://get.oh-my.fish | fish
