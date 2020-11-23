@@ -1,1 +1,1 @@
-fisher install hauleth/agnoster
+omf install agnoster
